@@ -10,7 +10,7 @@ Usage:
 * Clone this repository into your .rebar/templates directory.  If it doesn't already exist, I think you can do this with the following command line:
 
 ``` shell
-git clone https://github.com/robspassky/rebar-project-template.git ~/.rebar/templates
+git clone https://github.com/jeidee/rebar-project-template.git ~/.rebar/templates
 ```
 
 * Run it:
